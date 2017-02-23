@@ -6,11 +6,11 @@
   <parent>
     <groupId>org.nuxeo</groupId>
     <artifactId>nuxeo-addons-parent</artifactId>
-    <version>7.10</version>
+    <version>8.10</version>
   </parent>
   <artifactId>nuxeo-custom-path-segment-service</artifactId>
   <groupId>org.nuxeo</groupId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Nuxeo custom path segment service</name>
   <description></description>
 
