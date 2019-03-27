@@ -10,7 +10,7 @@
   </parent>
   <artifactId>nuxeo-custom-path-segment-service</artifactId>
   <groupId>org.nuxeo</groupId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <name>Nuxeo custom path segment service</name>
   <description></description>
 
